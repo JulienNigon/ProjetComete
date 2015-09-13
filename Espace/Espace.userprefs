@@ -1,0 +1,25 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Planete\SC_GestionPlanete.cs">
+    <Files>
+      <File FileName="Assets\Moteur\Effet.cs" Line="1" Column="1" />
+      <File FileName="Assets\Planete\SC_GestionPlanete.cs" Line="59" Column="3" />
+      <File FileName="Assets\Data\Batiments.xml" Line="1" Column="1" />
+      <File FileName="Assets\Moteur\Batiment.cs" Line="1" Column="1" />
+      <File FileName="Assets\Moteur\Case.cs" Line="21" Column="3" />
+      <File FileName="Assets\Moteur\Colonie.cs" Line="1" Column="1" />
+      <File FileName="Assets\Moteur\GestionnaireDePartie.cs" Line="25" Column="30" />
+      <File FileName="Assets\Moteur\TypeDeBatiment.cs" Line="18" Column="1" />
+      <File FileName="Assets\Moteur\Ressources.cs" Line="1" Column="1" />
+      <File FileName="Assets\Moteur\EvenementGenerator.cs" Line="1" Column="1" />
+      <File FileName="Assets\Moteur\Joueur.cs" Line="1" Column="1" />
+      <File FileName="Assets\Moteur\Terrains.cs" Line="1" Column="1" />
+      <File FileName="Assets\Moteur\DataManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Moteur\Constructions.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
