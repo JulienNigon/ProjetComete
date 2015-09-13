@@ -56,7 +56,7 @@ public class SC_GestionPlanete : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		
+		Debug.Log ("my test");
 	}
 
 	public void instancierUnHexagone(int x, int y) {
